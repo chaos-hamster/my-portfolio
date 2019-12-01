@@ -6,10 +6,12 @@ phases:
       php: 7.3
   build:
     commands:
-      - echo Nothing to do yet
+      - npm install
+      - npm run webpack
 artifacts:
   files:
     - ./*.html
     - favicon.ico
     - styles/*
     - images/*    
+    - dist/bundle.js
