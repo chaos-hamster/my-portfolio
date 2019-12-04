@@ -12,8 +12,9 @@ Font Awesome
 Google Fonts
 React
 Jest
-Enzyme      https://airbnb.io/enzyme/
+Enzyme
 NPM
 Babel
 Webpack
+Browser-Sync
 
