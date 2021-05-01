@@ -12,7 +12,9 @@ Font Awesome
 Google Fonts
 React
 Jest
+Enzyme
 NPM
 Babel
 Webpack
+Browser-Sync
 
